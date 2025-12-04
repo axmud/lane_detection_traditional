@@ -1,1 +1,1 @@
-# lane_detection_traditional
+It is traditional way of detecting lanes. To run this code you should use python v3.12 and carla v0.9.16(UE4)
